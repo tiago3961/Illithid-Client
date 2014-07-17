@@ -1,0 +1,109 @@
+2014-07-16 23:51:51 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2014-07-16 23:51:51 [SERVER] [INFO] Generating keypair
+2014-07-16 23:51:51 [SERVER] [INFO] Converting map!
+2014-07-16 23:51:51 [SERVER] [INFO] Scanning folders...
+2014-07-16 23:51:51 [SERVER] [INFO] Total conversion count is 0
+2014-07-16 23:52:16 [SERVER] [INFO] Preparing start region for level 0
+2014-07-16 23:52:17 [SERVER] [INFO] Preparing spawn area: 4%
+2014-07-16 23:52:18 [SERVER] [INFO] Preparing spawn area: 12%
+2014-07-16 23:52:21 [SERVER] [INFO] Preparing spawn area: 13%
+2014-07-16 23:52:22 [SERVER] [INFO] Preparing spawn area: 22%
+2014-07-16 23:52:23 [SERVER] [INFO] Preparing spawn area: 28%
+2014-07-16 23:52:24 [SERVER] [INFO] Preparing spawn area: 35%
+2014-07-16 23:52:25 [SERVER] [INFO] Preparing spawn area: 43%
+2014-07-16 23:52:26 [SERVER] [INFO] Preparing spawn area: 49%
+2014-07-16 23:52:27 [SERVER] [INFO] Preparing spawn area: 56%
+2014-07-16 23:52:28 [SERVER] [INFO] Preparing spawn area: 65%
+2014-07-16 23:52:29 [SERVER] [INFO] Preparing spawn area: 72%
+2014-07-16 23:52:30 [SERVER] [INFO] Preparing spawn area: 78%
+2014-07-16 23:52:32 [SERVER] [INFO] Preparing spawn area: 84%
+2014-07-16 23:52:33 [SERVER] [INFO] Preparing spawn area: 91%
+2014-07-16 23:52:34 [SERVER] [INFO] Preparing spawn area: 93%
+2014-07-16 23:52:35 [SERVER] [WARNING] [ResonantEngine]SaveManager: Skipping object with id 
+2014-07-16 23:52:38 [SERVER] [INFO] Tlacatecolototl[/127.0.0.1:0] logged in with entity id 12496 at (158.5, 69.0, 254.5)
+2014-07-16 23:52:38 [SERVER] [INFO] Tlacatecolototl joined the game
+2014-07-16 23:52:41 [SERVER] [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-07-16 23:52:52 [SERVER] [INFO] Saving and pausing game...
+2014-07-16 23:52:52 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2014-07-16 23:52:53 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2014-07-16 23:52:53 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2014-07-16 23:52:53 [SERVER] [INFO] Saving chunks for level 'New World'/Underdark
+2014-07-16 23:52:53 [SERVER] [INFO] Saving chunks for level 'New World'/The Moo Moo Farm
+2014-07-16 23:52:53 [SERVER] [INFO] Saving chunks for level 'New World'/Promised Land
+2014-07-16 23:52:53 [SERVER] [INFO] Saving chunks for level 'New World'/Spirit World
+2014-07-16 23:52:53 [SERVER] [INFO] Saving chunks for level 'New World'/Torment
+2014-07-16 23:52:53 [SERVER] [INFO] Saving chunks for level 'New World'/Wyvern Lair
+2014-07-16 23:52:53 [SERVER] [INFO] Saving chunks for level 'New World'/Bedrock
+2014-07-16 23:52:53 [SERVER] [INFO] Saving chunks for level 'New World'/Twilight Forest
+2014-07-16 23:52:53 [SERVER] [INFO] Saving chunks for level 'New World'/Limbo
+2014-07-17 01:00:35 [SERVER] [INFO] Saving and pausing game...
+2014-07-17 01:00:35 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2014-07-17 01:00:35 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2014-07-17 01:00:36 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2014-07-17 01:00:36 [SERVER] [INFO] Saving chunks for level 'New World'/Underdark
+2014-07-17 01:00:36 [SERVER] [INFO] Saving chunks for level 'New World'/The Moo Moo Farm
+2014-07-17 01:00:36 [SERVER] [INFO] Saving chunks for level 'New World'/Promised Land
+2014-07-17 01:00:36 [SERVER] [INFO] Saving chunks for level 'New World'/Spirit World
+2014-07-17 01:00:36 [SERVER] [INFO] Saving chunks for level 'New World'/Torment
+2014-07-17 01:00:36 [SERVER] [INFO] Saving chunks for level 'New World'/Wyvern Lair
+2014-07-17 01:00:36 [SERVER] [INFO] Saving chunks for level 'New World'/Bedrock
+2014-07-17 01:00:36 [SERVER] [INFO] Saving chunks for level 'New World'/Twilight Forest
+2014-07-17 01:00:36 [SERVER] [INFO] Saving chunks for level 'New World'/Limbo
+2014-07-17 01:00:41 [SERVER] [INFO] Saving and pausing game...
+2014-07-17 01:00:41 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2014-07-17 01:00:41 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2014-07-17 01:00:41 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2014-07-17 01:00:41 [SERVER] [INFO] Saving chunks for level 'New World'/Underdark
+2014-07-17 01:00:41 [SERVER] [INFO] Saving chunks for level 'New World'/The Moo Moo Farm
+2014-07-17 01:00:41 [SERVER] [INFO] Saving chunks for level 'New World'/Promised Land
+2014-07-17 01:00:41 [SERVER] [INFO] Saving chunks for level 'New World'/Spirit World
+2014-07-17 01:00:41 [SERVER] [INFO] Saving chunks for level 'New World'/Torment
+2014-07-17 01:00:41 [SERVER] [INFO] Saving chunks for level 'New World'/Wyvern Lair
+2014-07-17 01:00:41 [SERVER] [INFO] Saving chunks for level 'New World'/Bedrock
+2014-07-17 01:00:41 [SERVER] [INFO] Saving chunks for level 'New World'/Twilight Forest
+2014-07-17 01:00:41 [SERVER] [INFO] Saving chunks for level 'New World'/Limbo
+2014-07-17 01:00:41 [SERVER] [INFO] Saving and pausing game...
+2014-07-17 01:00:41 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2014-07-17 01:00:42 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2014-07-17 01:00:42 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2014-07-17 01:00:42 [SERVER] [INFO] Saving chunks for level 'New World'/Underdark
+2014-07-17 01:00:42 [SERVER] [INFO] Saving chunks for level 'New World'/The Moo Moo Farm
+2014-07-17 01:00:42 [SERVER] [INFO] Saving chunks for level 'New World'/Promised Land
+2014-07-17 01:00:42 [SERVER] [INFO] Saving chunks for level 'New World'/Spirit World
+2014-07-17 01:00:42 [SERVER] [INFO] Saving chunks for level 'New World'/Torment
+2014-07-17 01:00:42 [SERVER] [INFO] Saving chunks for level 'New World'/Wyvern Lair
+2014-07-17 01:00:42 [SERVER] [INFO] Saving chunks for level 'New World'/Bedrock
+2014-07-17 01:00:42 [SERVER] [INFO] Saving chunks for level 'New World'/Twilight Forest
+2014-07-17 01:00:42 [SERVER] [INFO] Saving chunks for level 'New World'/Limbo
+2014-07-17 01:00:43 [SERVER] [INFO] Saving and pausing game...
+2014-07-17 01:00:43 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2014-07-17 01:00:44 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2014-07-17 01:00:44 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2014-07-17 01:00:44 [SERVER] [INFO] Saving chunks for level 'New World'/Underdark
+2014-07-17 01:00:44 [SERVER] [INFO] Saving chunks for level 'New World'/The Moo Moo Farm
+2014-07-17 01:00:44 [SERVER] [INFO] Saving chunks for level 'New World'/Promised Land
+2014-07-17 01:00:44 [SERVER] [INFO] Saving chunks for level 'New World'/Spirit World
+2014-07-17 01:00:44 [SERVER] [INFO] Saving chunks for level 'New World'/Torment
+2014-07-17 01:00:44 [SERVER] [INFO] Saving chunks for level 'New World'/Wyvern Lair
+2014-07-17 01:00:44 [SERVER] [INFO] Saving chunks for level 'New World'/Bedrock
+2014-07-17 01:00:44 [SERVER] [INFO] Saving chunks for level 'New World'/Twilight Forest
+2014-07-17 01:00:44 [SERVER] [INFO] Saving chunks for level 'New World'/Limbo
+2014-07-17 01:01:06 [SERVER] [INFO] Stopping server
+2014-07-17 01:01:06 [SERVER] [INFO] Saving players
+2014-07-17 01:01:06 [SERVER] [INFO] Tlacatecolototl left the game
+2014-07-17 01:01:06 [SERVER] [INFO] Saving worlds
+2014-07-17 01:01:06 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2014-07-17 01:01:06 [SERVER] [INFO] Saving chunks for level 'New World'/Nether
+2014-07-17 01:01:06 [SERVER] [INFO] Saving chunks for level 'New World'/The End
+2014-07-17 01:01:06 [SERVER] [INFO] Saving chunks for level 'New World'/Underdark
+2014-07-17 01:01:06 [SERVER] [INFO] Saving chunks for level 'New World'/The Moo Moo Farm
+2014-07-17 01:01:06 [SERVER] [INFO] Saving chunks for level 'New World'/Promised Land
+2014-07-17 01:01:06 [SERVER] [INFO] Saving chunks for level 'New World'/Spirit World
+2014-07-17 01:01:06 [SERVER] [INFO] Saving chunks for level 'New World'/Torment
+2014-07-17 01:01:06 [SERVER] [INFO] Saving chunks for level 'New World'/Wyvern Lair
+2014-07-17 01:01:06 [SERVER] [INFO] Saving chunks for level 'New World'/Bedrock
+2014-07-17 01:01:06 [SERVER] [INFO] Stopping server
+2014-07-17 01:01:06 [SERVER] [INFO] Saving players
+2014-07-17 01:01:06 [SERVER] [INFO] Saving worlds
+2014-07-17 01:01:06 [SERVER] [INFO] Saving chunks for level 'New World'/Overworld
+2014-07-17 01:01:06 [SERVER] [INFO] Saving chunks for level 'New World'/Twilight Forest

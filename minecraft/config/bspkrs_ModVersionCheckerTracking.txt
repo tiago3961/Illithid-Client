@@ -1,0 +1,8 @@
+# Configuration file
+
+version_check_tracker {
+    S:WorldStateCheckpoints=<html>
+    S:bspkrsCore=<html>
+}
+
+

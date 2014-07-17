@@ -1,0 +1,45 @@
+{
+    "+libraries": [
+        {
+            "insert": "prepend",
+            "name": "lzma:lzma:0.0.1"
+        },
+        {
+            "MMC-hint": "forge-pack-xz",
+            "insert": "prepend",
+            "name": "org.scala-lang:scala-compiler:2.10.2",
+            "url": "http://files.minecraftforge.net/maven/"
+        },
+        {
+            "MMC-hint": "forge-pack-xz",
+            "insert": "prepend",
+            "name": "org.scala-lang:scala-library:2.10.2",
+            "url": "http://files.minecraftforge.net/maven/"
+        },
+        {
+            "insert": "prepend",
+            "name": "org.ow2.asm:asm-all:4.1"
+        },
+        {
+            "insert": "prepend",
+            "name": "net.minecraft:launchwrapper:1.8"
+        },
+        {
+            "MMC-absoluteUrl": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.6.4-9.11.1.965/forge-1.6.4-9.11.1.965-universal.jar",
+            "MMC-depend": "hard",
+            "insert": "prepend",
+            "name": "net.minecraftforge:minecraftforge:9.11.1.965",
+            "url": "http://files.minecraftforge.net/maven/"
+        }
+    ],
+    "+tweakers": [
+        "cpw.mods.fml.common.launcher.FMLTweaker"
+    ],
+    "fileId": "net.minecraftforge",
+    "mainClass": "net.minecraft.launchwrapper.Launch",
+    "mcVersion": "1.6.4",
+    "minecraftArguments": "--username ${auth_player_name} --session ${auth_session} --version ${version_name} --gameDir ${game_directory} --assetsDir ${game_assets} ",
+    "name": "Forge",
+    "order": 5,
+    "version": "9.11.1.965"
+}
