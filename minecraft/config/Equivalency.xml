@@ -8,7 +8,7 @@
         <!--Enabling this will allow you to craft Diamonds from Blaze rods-->
         <blazeTransmute>false</blazeTransmute>
         <!--Modifying this will change the Iron to Certus Quartz recipeTrue = 1 Certus Quartz <-> 2 Iron || False = 1 Certus Quartz <-> 2 Iron Blocks-->
-        <cqTransmute>true</cqTransmute>
+        <cqTransmute>false</cqTransmute>
         <!--Disables steel transmutation-->
         <steelTransmute>true</steelTransmute>
         <enableAEQuratzRecipe>true</enableAEQuratzRecipe>

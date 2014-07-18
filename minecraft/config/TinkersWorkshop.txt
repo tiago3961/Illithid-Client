@@ -162,7 +162,7 @@ drawbridge {
 
 "environment checks" {
     # Change env check warnings to reflect that this is a modpack.
-    B:IsModpack=false
+    B:IsModpack=true
 }
 
 
@@ -362,7 +362,7 @@ tools {
     # Makes recipes for gold apples, carrots, and melon potions more expensive
     B:"Change Crafting Recipes"=false
     B:"Change Ghast drops to Gold Ingots"=false
-    B:"Necrotic modifier only heals on hostile mob kills"=false
+    B:"Necrotic modifier only heals on hostile mob kills"=true
     B:"Passive Health Regen"=true
     B:"Players drop heads on death"=false
     I:"World Border Radius"=1000
@@ -438,5 +438,3 @@ worldgen {
     B:"Generate Tin"=false
     B:"Generate Tin Bushes"=true
 }
-
-
