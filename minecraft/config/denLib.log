@@ -6578,10 +6578,10 @@ Fluid: gascraft_toxicgas
 Fluid: gascraft_neurotoxin
 Fluid: gascraft_corrosivegas
 Fluid: gascraft_plasma
-Setting up meta item with texture: 6256:0 Gate Copier gatecopy:clipboard_empty
-Setting up meta item with texture: 6256:1 Gate Copier gatecopy:clipboard_copy
-Setting up meta item with texture: 6256:2 Gate Copier gatecopy:clipboard_empty_diamond
-Setting up meta item with texture: 6256:3 Gate Copier gatecopy:clipboard_copy_diamond
+Setting up meta item with texture: 31587:0 Gate Copier gatecopy:clipboard_empty
+Setting up meta item with texture: 31587:1 Gate Copier gatecopy:clipboard_copy
+Setting up meta item with texture: 31587:2 Gate Copier gatecopy:clipboard_empty_diamond
+Setting up meta item with texture: 31587:3 Gate Copier gatecopy:clipboard_copy_diamond
 Fluid: mutagen
 Fluid: protein
 Ore: beeComb
