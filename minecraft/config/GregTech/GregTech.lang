@@ -14,6 +14,30 @@ enablelangfile {
 ####################
 
 languagefile {
+    S:fluid.berylium=berylium
+    S:fluid.calcium=calcium
+    S:fluid.calciumcarbonate=Calcium Carbonate
+    S:fluid.chlorite=chlorite
+    S:fluid.deuterium=deuterium
+    S:fluid.glyceryl=glyceryl
+    S:fluid.helium=helium
+    S:fluid.helium-3=helium-3
+    S:fluid.heliumplasma=Helium Plasma
+    S:fluid.hydrogen=hydrogen
+    S:fluid.lithium=lithium
+    S:fluid.mercury=mercury
+    S:fluid.methane=methane
+    S:fluid.nitrocoalfuel=Nitro Coal Fuel
+    S:fluid.nitrofuel=Nitro Diesel
+    S:fluid.nitrogen=nitrogen
+    S:fluid.nitrogendioxide=nitrogendioxide
+    S:fluid.potassium=potassium
+    S:fluid.silicon=silicon
+    S:fluid.sodium=sodium
+    S:fluid.sodiumpersulfate=Sodium Persulfate
+    S:fluid.steam=steam
+    S:fluid.tritium=tritium
+    S:fluid.wolframium=wolframium
     S:item.180k_Helium_Coolantcell.name=180k He Coolant Cell
     S:item.180k_NaK_Coolantcell.name=180k NaK Coolantcell
     S:item.360k_Helium_Coolantcell.name=360k He Coolant Cell

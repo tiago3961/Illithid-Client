@@ -1,0 +1,2266 @@
+{
+  "states": [
+    {
+      "signature": "sha256:bb4f31092ad723cb512c786c85651cdba214c288d559d9f44a504c53ad2c12f6",
+      "mods": [
+        {
+          "modId": "Schematica",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:3b6b626f83cffd9d6a9cbf8564770fe7a049632634451c5c91b94f0942ced94c",
+      "mods": [
+        {
+          "modId": "ganysnether",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:17883a6e94fcba2c70566a350ca0e5892224f017bd9f281dacb288d9b07354a2",
+      "mods": [
+        {
+          "modId": "emasherdefense",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:c7a5c4856f50fb477f36108b39cd146569f14ac79461adf9a17764e79ddd350f",
+      "mods": [
+        {
+          "modId": "Tubestuff",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:c6dc36840429627d7b25e1df15f686e145952cf080b86dbc658122c161de20b3",
+      "mods": [
+        {
+          "modId": "AdvancedPowerManagement",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:aaf21397e2c146abee53ff97c59fa703ebf631703c0b5ff1eb3f02bd379cf2cf",
+      "mods": [
+        {
+          "modId": "ImmibisPeripherals",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:9342d2a22f73a12453d8410312073010e5042a5c58d28fa6a1f70c0f06621a9c",
+      "mods": [
+        {
+          "modId": "EnderIO",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:13a2b8ca93afa91f4e5f11dc8e3f1e19a57722f12bff14d21cdf0d5f91319126",
+      "mods": [
+        {
+          "modId": "TC",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:89ebd47adb06c57c01f97a5973461edb94c11cc8d0e12c27e9a7d2a5ba868389",
+      "mods": [
+        {
+          "modId": "ProjRed|Exploration",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:99f6700aef7de02e6349daa01660f6159cb8fd6c85e0d1d95801530f2959dc3f",
+      "mods": [
+        {
+          "modId": "OpenComputers|Core",
+          "state": "Post-initialized"
+        },
+        {
+          "modId": "OpenComputers",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:b4c7f6ce89e36bbef9d0f0505e51204f01ecb9192556bad1ebe9e563524ac922",
+      "mods": [
+        {
+          "modId": "Natura",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:6686046aca685824213b2c0fbc1639d39bbfc2f396fead9bd50ca4d6aa1e71a9",
+      "mods": [
+        {
+          "modId": "SuperCraftingFrame",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:2a0ad1b8a28d7a7a3d770144d621defe4616a3095d0e4f5f36b805ca8b5001b6",
+      "mods": [
+        {
+          "modId": "BinnieCore",
+          "state": "Post-initialized"
+        },
+        {
+          "modId": "ExtraTrees",
+          "state": "Post-initialized"
+        },
+        {
+          "modId": "ExtraBees",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:cecf4a012aa5833915876a52ebe36dd082b506d20d48e9eca69971d244c9b0b1",
+      "mods": [
+        {
+          "modId": "bdlib",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:335eaf2b1e61d599c89c9a0cb867956ba37405602389fa4071bdd1ca50870aaa",
+      "mods": [
+        {
+          "modId": "AWWayofTime",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:af93dbc687926a9e627ab29aa40da6eebcb22e4f785c71859141c7f962070506",
+      "mods": [
+        {
+          "modId": "ObsidiPlates",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:7abdf0d936282655da36cd420f4420de2a05e3cfb2f0b0e46083b9fb66f88b93",
+      "mods": [
+        {
+          "modId": "TConstruct",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:054e82bdd9e1484628c7c79806e8992b6b4ce2aff0548d832f947662940b059c",
+      "mods": []
+    },
+    {
+      "signature": "sha256:f736307789c8ba35af33120bd0bb198fa60f0eb22260df22b8da47e0c5cc5689",
+      "mods": [
+        {
+          "modId": "pamharvestcraft",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:dca4d8e39cd9231f5b39bca6653e15997f022b16d8c9e13edd063ee62a97fd1f",
+      "mods": [
+        {
+          "modId": "CoFHMasquerade",
+          "state": "Post-initialized"
+        },
+        {
+          "modId": "CoFHCore",
+          "state": "Post-initialized"
+        },
+        {
+          "modId": "CoFHLoot",
+          "state": "Post-initialized"
+        },
+        {
+          "modId": "CoFHWorld",
+          "state": "Post-initialized"
+        },
+        {
+          "modId": "CoFHSocial",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:9cc2d63d569695c9237aafa4b224edb0f85c96c1b7d2201b454c954a971539de",
+      "mods": [
+        {
+          "modId": "arsmagica2",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:7f5511360f473ce471b28f6c175fb4bce4080c5abc6f2a654f5001b47cdcd118",
+      "mods": [
+        {
+          "modId": "betterstorage",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:59dec81ecdfca407c522d6cdbe90dd2755c9636701e23f3e235d07443816b874",
+      "mods": [
+        {
+          "modId": "xreliquary",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:4c89e57021e50a76ed76c3c073706951cbd2cdad8733bf026592cd3a0e182a44",
+      "mods": [
+        {
+          "modId": "ResonantInduction|Atomic",
+          "state": "Errored"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:63cce472bee5e3835c43852e2aecb3a7f38fd188297eda9c413d3a5303241087",
+      "mods": [
+        {
+          "modId": "powersuits",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:171ec86dc5fba5728a2c528f1ebf5d3e275fe60000256a8d587ebc0301e71c0f",
+      "mods": [
+        {
+          "modId": "BiblioWoodsBoP",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:44266f342859ab177e87485097b35418279eee0bb38bb573a63dc53bbd37b56d",
+      "mods": [
+        {
+          "modId": "WorldStateCheckpoints",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:ddf3a0d68bf290a459602f3dd3c20ac2b8a2ff153265fa92ad4938b4fe42324f",
+      "mods": [
+        {
+          "modId": "MagicBees",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:6600295b49b10b7f28952751067a0ced51c7caaf7c108ae9f3249cfe6f730afc",
+      "mods": [
+        {
+          "modId": "InfernalMobs",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:8c1bf2eed7aeafc78be9709b79179a41a5b1d6e453ca1e74ea406ff9407f80b7",
+      "mods": [
+        {
+          "modId": "NEIPlugins",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:54fbb8af47a3d33eaee3f3717599b38e6d4e9a3d90eadc1d95ea6e24d62efbd3",
+      "mods": [
+        {
+          "modId": "BiblioWoodsEBXL",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:c55fca19a99e256a0ddc85ca53f23981dd914ead675c85914dee5414de311e2f",
+      "mods": [
+        {
+          "modId": "OpenPeripheral",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:be1eb3b6c0cc3aa547d5aa9607def148e69d7b4bf4df144b499ec82144e74277",
+      "mods": [
+        {
+          "modId": "GateCopy",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:4ccd97f88e4757ef65e9cc7efc53d5fc61eaacc39ba76d53458eabd20ab6eb3d",
+      "mods": [
+        {
+          "modId": "Equivalency",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:fdc0d6882c31ea4cf7cf61ad77dd5b41b66083d9424a8ae92038b0f5c6f72579",
+      "mods": [
+        {
+          "modId": "PowerCrystalsCore",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:1357a02ed71fd6787542b1c8880cecfb1f6af0d49a8641204853cc0ac117976b",
+      "mods": [
+        {
+          "modId": "BiblioCraft",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:cc6a41dc3eaacc9e440a6bd0d2890b20d36b4ee408fe2d67122f328bb6e01581",
+      "mods": []
+    },
+    {
+      "signature": "sha256:ebcb78ab469a18d1676184095cd156f1e92967106d52136e1c4f9b0afc3c75d5",
+      "mods": [
+        {
+          "modId": "numina",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:c92898f009fa8430a7c0a8f9c9a4733db91c5819554f90c437996ba12ddd63ee",
+      "mods": []
+    },
+    {
+      "signature": "sha256:99553633f7549e2f20802e740dc965e6540117ed6047ad20f4a6b0426f3ebf36",
+      "mods": [
+        {
+          "modId": "switches",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:3d042056eae06ded664d196c3c2997910b247cd607cca3929672988975715da7",
+      "mods": [
+        {
+          "modId": "ThaumicTinkerer",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:e60bf2d3db489ecd21d653fafa5ca649085a65b2434ee371c1112d5e26d7d856",
+      "mods": [
+        {
+          "modId": "IronChest",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:d099bcaa633b7261185c99d11078bcf67373f4321f0c0f507ea8a5e7d2a54743",
+      "mods": [
+        {
+          "modId": "StevesCarts",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:ee646c09fcd62f71dab242c65efe5a122e7d0e8d2d97425694df694fc9dba682",
+      "mods": []
+    },
+    {
+      "signature": "sha256:b5e654fb182f89370cdc148a75fb0e14ce888e4255e4ea07d2ae3a51c2ac12b1",
+      "mods": [
+        {
+          "modId": "eng_toolbox",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:7deef6ee65331867c6f873869c6d0475e06dfc5188664c7f9d70304272a4847d",
+      "mods": [
+        {
+          "modId": "SSR",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:b549205dad80a65e1ac60a7f034ac1817f4658def8d0a51514929f312f37e2b2",
+      "mods": [
+        {
+          "modId": "ThermalExpansion",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:a9f37e7506843da48c5588ac61696b94513d282bde607bc347d2580371559096",
+      "mods": [
+        {
+          "modId": "Artifacts",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:f3d1d923e76c756486e5243f902c06831c00046b1b13398327936b1d1bc292b9",
+      "mods": [
+        {
+          "modId": "DragonAPI",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:059e23df8d0c50c6a59802120f6f18272b8e1116e5deab6c02bae7e23bb75fec",
+      "mods": [
+        {
+          "modId": "Autoutils",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:d9848e25d307dc8eb7bc87e032fa7c86afe86198c35ccd2cf2f5ec507358f495",
+      "mods": [
+        {
+          "modId": "NetherStuffs",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:b9e324ae64c809dbec05c86b16caa2939dba90cab3dc99b2f7f8dab55662509b",
+      "mods": [
+        {
+          "modId": "ResonantInduction|Mechanical",
+          "state": "Errored"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:90a71a729849986dbdd7f9b988c7d1c1e8abfaa1fa240076c06ed0c23377cde8",
+      "mods": [
+        {
+          "modId": "LomLib",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:8851d95c208eca7855643113a0ee3857aa3a9d8e6475a2988fdd85f32ebb93bb",
+      "mods": [
+        {
+          "modId": "remoteIO",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:64335a48be6b142a7d0c13ec5c82a707857aa58c0234e6eda3eaca0e96eea51b",
+      "mods": []
+    },
+    {
+      "signature": "sha256:474c2ca620f4147c72db9fa582993688d3c9bca5aed9d9e937ec4fa89b3c2fad",
+      "mods": []
+    },
+    {
+      "signature": "sha256:b2c4fbcc41d0fd1d27e00acd55f5b9d54d6ad1244aef2935d425c86d6b1ea26a",
+      "mods": []
+    },
+    {
+      "signature": "sha256:7fb12d09f041c294f08a0a51a2808438092273b51628eecaf2e0d0030b7556f5",
+      "mods": []
+    },
+    {
+      "signature": "sha256:cb115f5003e64e13ac234f8e11eec1abbe0e49ecb703d5f856422ed0ab9b9c5c",
+      "mods": [
+        {
+          "modId": "ganysend",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:32b1e0b26c784789ed54a52d42f58056ce96a62bb7616e6df4c123eaf0fa1f3a",
+      "mods": [
+        {
+          "modId": "dynamictanks",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:cb8c6664071f227f1dcbc8c2cdeed627fd1a2f1f158b24a6f22edee1afb0db85",
+      "mods": [
+        {
+          "modId": "ImmibisCore",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:1ebb3ada79cf58af984c6eb2e0baaba1a0951e07c3303041fe27a9fdf10a92c3",
+      "mods": [
+        {
+          "modId": "enhancedportals",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:30b7d8187a428dca74e778d3e27e927f751d46005794631377ab11cbe9573c3f",
+      "mods": [
+        {
+          "modId": "ProjRed|Compatibility",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:c1ec0aa6989bf016a5e53fddfe3003c4e35721f32ab6736dcd1df74e57e0c651",
+      "mods": [
+        {
+          "modId": "emashercore",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:a5469fa39e51f27683ec78baa62a4fad76369289174693498eedf9629668c6bc",
+      "mods": [
+        {
+          "modId": "BCTools",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:db530296bec49e8dc0cb9c881df3f495e80689f49ffa9e122dbacb3704d55e16",
+      "mods": [
+        {
+          "modId": "OpenEye",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:f38995580db06b60b2bd9770ad92805bf5a0a48a8b1bf92a79cbb70a3b2f1005",
+      "mods": [
+        {
+          "modId": "BuildCraft|Core",
+          "state": "Post-initialized"
+        },
+        {
+          "modId": "BuildCraft|Factory",
+          "state": "Post-initialized"
+        },
+        {
+          "modId": "BuildCraft|Silicon",
+          "state": "Post-initialized"
+        },
+        {
+          "modId": "BuildCraft|Energy",
+          "state": "Post-initialized"
+        },
+        {
+          "modId": "BuildCraft|Builders",
+          "state": "Post-initialized"
+        },
+        {
+          "modId": "BuildCraft|Transport",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:72a0eb2d239a878ba0ef5c0d2a8e78ef162580e3ab285eb79fb995981d1c06c8",
+      "mods": [
+        {
+          "modId": "FML",
+          "state": "Post-initialized"
+        },
+        {
+          "modId": "Forge",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:b9b2f18f90cd2a4e6320401cfa51b50a35ed5c54390206e1422315ff91e721ba",
+      "mods": [
+        {
+          "modId": "aobd",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:68540a05a36a532d6ade7e7bc62474d6a9909272278a313e956928b5501ad45e",
+      "mods": [
+        {
+          "modId": "NotEnoughCodecs",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:2fb73831900540187af5f63e0da23d2c099ea0491db1a165733207049578bfe0",
+      "mods": [
+        {
+          "modId": "IC2",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:5c625d84ce540114715bc23f4a6229981c5c398dfa0bca46b6674d69a11916ad",
+      "mods": [
+        {
+          "modId": "PortalGun",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:068b93f202cbcd8f707571f2b451fc4aec909141650783b0d422198c8a35c2d4",
+      "mods": [
+        {
+          "modId": "BuildMod",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:380e27705033d47d7e00c0297e74fd94b5f59ecbc66f589e3c48ca53b9e4433f",
+      "mods": []
+    },
+    {
+      "signature": "sha256:9cc447d14830ef299569369430f14b2f8dbaefd43d8e7fac9dfa2ab8b72f6b35",
+      "mods": [
+        {
+          "modId": "advancedgenetics",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:0c726f02c8eb7516bf3b9fa9291f9c9035416237096546edfc6a46cfe5a130f8",
+      "mods": [
+        {
+          "modId": "factorization",
+          "state": "Post-initialized"
+        },
+        {
+          "modId": "factorization.notify",
+          "state": "Post-initialized"
+        },
+        {
+          "modId": "factorization.misc",
+          "state": "Post-initialized"
+        },
+        {
+          "modId": "factorization.dimensionalSlice",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:bde5bfa1186e4a3faf6fd379318f17f8c21ec7d5715e2815a9e16416e0ab8394",
+      "mods": [
+        {
+          "modId": "ResonantInduction|Electrical",
+          "state": "Errored"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:76cfa8011f18cfaa935157c147b9392c562a1aa5869f227242dc8459a047a810",
+      "mods": [
+        {
+          "modId": "Mekanism",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:21823b32fc913625eefac4b7beb165a40b6a1e92b9b5bff147212299d4a9cef7",
+      "mods": [
+        {
+          "modId": "GeoStrata",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:cc3b350aed5a41b48da68ebcea27cb156c4eed6347bf060bbdbb00b5109faa49",
+      "mods": [
+        {
+          "modId": "RandomThings",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:6e6b77c76f5b16203a3880cb0af2c0db3879b4738c5465c8fb15ccd04ed28f53",
+      "mods": [
+        {
+          "modId": "Morph",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:edd85e2ce0285eba1f0e2fb7187e9f1982dcece4c26067165489d82123e3760c",
+      "mods": [
+        {
+          "modId": "OCS",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:2882d64550240dd0c026724da664d9f97ef205c91d6a85273d10790d88608f34",
+      "mods": []
+    },
+    {
+      "signature": "sha256:c3334ff39cf0ab3b54925619101054c90098b7c733b1e7834c7b75e4c41e84a5",
+      "mods": []
+    },
+    {
+      "signature": "sha256:ff255719e2bd11a269592b19386cd329b5aa02888453120f5afbdf0a96b20081",
+      "mods": [
+        {
+          "modId": "TrussMod",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:c444c4d610230381eea0c163bad21b16fb9177b58c5a8d835c78aab4bc1277f0",
+      "mods": [
+        {
+          "modId": "WR-CBE|Addons",
+          "state": "Post-initialized"
+        },
+        {
+          "modId": "WR-CBE|Core",
+          "state": "Post-initialized"
+        },
+        {
+          "modId": "WR-CBE|Logic",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:c77f5a911d64efe42451d8a4ddd80715cb491121232d2a443c16e1140a2ea9d1",
+      "mods": [
+        {
+          "modId": "MutantCreatures",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:560d565bc14a777017418c554406743601368a09e7172c5f9c21376bea909274",
+      "mods": [
+        {
+          "modId": "Chisel",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:1341d15cf05879eefa5cca6d13aa038c78e833b9467c7e9ab4848ebb78a66630",
+      "mods": [
+        {
+          "modId": "LogisticsPipes|Main",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:35a2d4648764733fe1207e27ec4805cf3243709bc7d0acb7c78ba82a4ef0529e",
+      "mods": [
+        {
+          "modId": "GetAllTheSeeds",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:8477198d3e69a141b7fcf55895ab72c37867eff4039350d63764a13e2d6fbd01",
+      "mods": [
+        {
+          "modId": "BiomesOPlenty",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:7b18512e9c684b7be504e628761bc4f2025051c1facb8755e886409d20c702ee",
+      "mods": [
+        {
+          "modId": "mod_MouseTweaks",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:9cd8586d546449bf4054209191701b1feb3763bc5f0329081fb5ee52763dc323",
+      "mods": [
+        {
+          "modId": "ResonantEngine",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:408c950662408cdd08e0fab37a90b67eff4fa7ee01c7877f03cb4b2c49d065dc",
+      "mods": [
+        {
+          "modId": "bspkrsCore",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:6c4b4e50e608763564afa1bde2d25ece9dd715e7c9129540faa1faded4896506",
+      "mods": []
+    },
+    {
+      "signature": "sha256:c667a11128ad05afbe47cad33a15586a70e75f0cbeceb3d1a7f6083aca3272ca",
+      "mods": [
+        {
+          "modId": "gascraft",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:28c1a878f8f8b896a296a78b1daf1f986447761e157fbe4a7862ae74caee553c",
+      "mods": [
+        {
+          "modId": "AdvancedReactors",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:628086be5fc4b4f3f693be69bb746a4d79ddb5ddad4ba3c8492cdea5bbedf5fe",
+      "mods": [
+        {
+          "modId": "Redstone Arsenal",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:bb7d17b340afe6abdfbfdaa03683bce4aef39a64887dbab0636eaff3cf2d59ba",
+      "mods": []
+    },
+    {
+      "signature": "sha256:2cea9535a56bf760a38faa12f779149d32ce06956ba6917ca8d2f23fa5cbd250",
+      "mods": [
+        {
+          "modId": "UsefulTNT",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:f4513e51c766cdd1d32ca8acd0835d7e16e2851ebea3f2a3b4ce5ae696baf3ae",
+      "mods": []
+    },
+    {
+      "signature": "sha256:f6c219a3e224f17cfb4c437e137565d957c30409bcbcbec73113ab8bd7752f24",
+      "mods": [
+        {
+          "modId": "ConfigMod",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:8f59f8eb94ede7b042848047246e5a68de8197703fea90cc2e5d60a90ccc58f6",
+      "mods": [
+        {
+          "modId": "CustomSpawner",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:3f6c7fb8a5a05e1ef38945a63417e866777cb4f2b9ccab9ebc9ecd2d218b285f",
+      "mods": [
+        {
+          "modId": "ProjRed|Integration",
+          "state": "Post-initialized"
+        },
+        {
+          "modId": "ProjRed|Transmission",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:107d11509f6af59b8c2ba23df828bc5d3c4e067b58f3d858c7deb90ca5308f84",
+      "mods": []
+    },
+    {
+      "signature": "sha256:b898eeffdab15764ae33687b48160db3259389972be6ce9adb3ff3db3df3c262",
+      "mods": []
+    },
+    {
+      "signature": "sha256:f71802e3ed8b55ac882158f997ec7af07b08c43ec57c2ebad3f8c441c9684df3",
+      "mods": [
+        {
+          "modId": "madscience",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:dd7ee6959085d4709d6fa61af61c06599428131c65d73d1c6c3652d0fe368644",
+      "mods": [
+        {
+          "modId": "Forestry",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:2384c632f26278a74e1a80854ec4a3c44a962e5ae70699029737b67c3c53c5bf",
+      "mods": [
+        {
+          "modId": "MFFS",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:40e47c17f87d2e050b33b2794730ef02b65a9f00901d4467ef879cabcd73c173",
+      "mods": [
+        {
+          "modId": "MapWriter",
+          "state": "Post-initialized"
+        },
+        {
+          "modId": "Opis",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:f58f231627a78e1acfa8362931cfc4eeec56ea3d98644bde3b259abcaa13dd5d",
+      "mods": [
+        {
+          "modId": "DenPipes",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:2ca6f21ec974e76ada1cccfb0efbf293de6bae42e0e08da3b20b939af0ab1c9d",
+      "mods": [
+        {
+          "modId": "ExtraUtilities",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:ac437eeddf37611ec027c729fbeb9c97a292e4b975b76fc827d28399a884f5ec",
+      "mods": []
+    },
+    {
+      "signature": "sha256:9ec4d5b82ca27806031f6d1bfe148e513086cde2613e33e3e51ad0b17752e142",
+      "mods": [
+        {
+          "modId": "ThaumcraftExtras",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:8fea8189c53d9c8e2524045607b1a2ae7a67eab70eaaf0ee59905a43f827719d",
+      "mods": [
+        {
+          "modId": "UtilityMobs",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:650953ff1624a98180ffabc6e9620fc39100eb65e2eba239fc8fff3ca63e3fe8",
+      "mods": [
+        {
+          "modId": "gendustry",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:e9dc2ee437230982f3175981502b602712fd713615f371aa049e1947e2726d3e",
+      "mods": [
+        {
+          "modId": "Thaumcraft",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:ee657e12e6302aa0df29c24a82b9019f00854ce1871e870d4c8c993e450fa182",
+      "mods": [
+        {
+          "modId": "RotaryCraft",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:8d6f59ec02d9e76421f425612b6e0dc57f2a526f9a789fd03f96373acc482c1b",
+      "mods": [
+        {
+          "modId": "ComputerCraft",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:e8e599a8c657f192ff50f579393ce071bfd798f8921cb3cee87ab41391f20013",
+      "mods": [
+        {
+          "modId": "TMechworks",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:c0127b076e3056f58294e4ae6c01a96599b8f58200345eb6f859192a2d9b2962",
+      "mods": []
+    },
+    {
+      "signature": "sha256:0c3085cb93c3ef95d731c274b6f2dd195aa0405fe9328d69cab7f5e899d5e124",
+      "mods": []
+    },
+    {
+      "signature": "sha256:47493cdecc989f89ce2620673fa284e0f96ba32cb62d700654d657160f1f9120",
+      "mods": [
+        {
+          "modId": "CarpentersBlocks",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:497cf94200211a816c2d4db2a39450d11d8de5259324cb0fda08df55ddb048ca",
+      "mods": [
+        {
+          "modId": "RedLogic",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:a0893a585af28f8d8b087af6e37633310131d591ca19c08e170ea13cd16b7730",
+      "mods": [
+        {
+          "modId": "iChunUtil",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:4b7d892c3f2abb3b722afb63036bb83fa24d16518ba5ef90fb24af8b1379ac5b",
+      "mods": [
+        {
+          "modId": "buildcraftAddon",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:ab4070ef7ee9461f891fef6e7cfe89795ee8de7479348f43c5e23ad4414de64b",
+      "mods": [
+        {
+          "modId": "Additional-Buildcraft-Objects",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:0d524ebfac22cd67361ce229427377986008480321033a778a82dae771f49d39",
+      "mods": [
+        {
+          "modId": "ReactorCraft",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:a0250933fe8cc6a44eb098016d4dadaba7746a27efc3d5a7f4f4c9bf247cfe09",
+      "mods": []
+    },
+    {
+      "signature": "sha256:de91af3e02ffc143d74742da59baf93440e9a81bad4e701c982fb71f8976a636",
+      "mods": [
+        {
+          "modId": "IC2NuclearControl",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:712ad2c380ed95ac0981ec1f315aff1e10b63cced676adfcb4049413b8c4a935",
+      "mods": [
+        {
+          "modId": "KeithyUtils",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:4e9b31fc264e6445cb58d1ebbff8441b877a206240d0f91d97111b658780225f",
+      "mods": [
+        {
+          "modId": "ForestryExtras",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:74920b1c096f98d7354e11b22d7632bee83dcae9a61e40edc6fbe4f94294c8b9",
+      "mods": []
+    },
+    {
+      "signature": "sha256:8ff8ed12ff93987b235fd6d3dbf35946f73e10be84012d3931bb8ca499ab1e37",
+      "mods": [
+        {
+          "modId": "MekanismGenerators",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:e13b215277e4e5043a4e012ebf59c6629da95bc7e32a846f7bdd47fa76bc4088",
+      "mods": [
+        {
+          "modId": "BiblioWoodsNatura",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:a7e681c9223ec55df6dba2d77212a236569eb153d50b55a8defe7981d9b7fa50",
+      "mods": [
+        {
+          "modId": "DartCraft",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:2402943ad4ae44435c204e58434f95df39e972f5cedca7afa0a17a33e8aed41e",
+      "mods": [
+        {
+          "modId": "EE3",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:2dc157c75a756a2f7cc46420a11a395bc96122ef852fd982c9b5feccf78355ef",
+      "mods": [
+        {
+          "modId": "Railcraft",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:34f504b85618ed2ab5356a0e8112994bf37fc473f0335e7d06a6a4afa23a75ae",
+      "mods": [
+        {
+          "modId": "EnderForest",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:2c1f4ca4986ea3ff4a9c11c3ba5bf33af21cc3fc2f602ddcbc66159c86352790",
+      "mods": [
+        {
+          "modId": "EnderStorage",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:c5fb453896fb511a7f949090795c79773f6d6c92e4d13d1f3100f4b2e331471a",
+      "mods": []
+    },
+    {
+      "signature": "sha256:596d7302021b20caa287206adb270a8c9cce00b8c7889c7b816cf3564a93ca32",
+      "mods": [
+        {
+          "modId": "AnimationAPI",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:eedb460694b18700d796e437a8f117b2b4ff3d6b437e47abc921d36affdb5ab1",
+      "mods": [
+        {
+          "modId": "DenEvents",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:200476624c207e29f2a8376d3111a879a3fc43b286147e8f55bd6c6c66e12045",
+      "mods": [
+        {
+          "modId": "ProjRed|Illumination",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:e770c78eb120e099509ee527da374aaaf072040443208cb82f14df05ff824db1",
+      "mods": [
+        {
+          "modId": "CompactSolars",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:333bbefeff5eb1722dc9b8d2e26c38bc69c1efa07d0ca870480f29d8858aa336",
+      "mods": []
+    },
+    {
+      "signature": "sha256:165b583b0b548405dd97019666f94a86ee1d1e3af227ae4dc82c6e27d6885bb1",
+      "mods": []
+    },
+    {
+      "signature": "sha256:4f509ed13dec876b4d9665f473c56ad5f7e93be841b9071a1337a647426dee5e",
+      "mods": [
+        {
+          "modId": "RedstonePasteMod",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:922e970f8cfcb20ab721401f6f39fd07533564f807b2964438a8df433821bcf2",
+      "mods": []
+    },
+    {
+      "signature": "sha256:94e7cc1f62886f2fd786fe4e632444c13515c149e3d320f6b87158136dfc45f2",
+      "mods": [
+        {
+          "modId": "BiblioWoodsForestry",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:34b4d75c23ad51c42e3370461b2cad5893a3e03ecd32902075437a224144a361",
+      "mods": [
+        {
+          "modId": "TwilightForest",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:9edbfce97618a9eb78f8b8e1cc8025fbd5084d9f5ab30444dcc81d0ccc15eff4",
+      "mods": [
+        {
+          "modId": "Waila",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:58383683fb9b0f08f72e8bf5aa083c91194dea513b34c10da709285c2f661f63",
+      "mods": [
+        {
+          "modId": "OpenMods",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:57dccaeed296c6cb159609f839d3650c8e059b037818d6e76a1804120b9f1606",
+      "mods": [
+        {
+          "modId": "InfiniTubes",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:ec1cd70e6a88541beb24de14e9fd9668e12ac3364aaa007c61e27be00f7f2959",
+      "mods": [
+        {
+          "modId": "Hats",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:e0578ec11185539f30919e26909541afb0ee9adc3f80952b5963898d8f3f715e",
+      "mods": [
+        {
+          "modId": "UniversalElectricity",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:674842f66bff1cd7ab86571dc4de4bb716acb8823b0a0f473cc78d65b3a1b018",
+      "mods": [
+        {
+          "modId": "McMultipart",
+          "state": "Post-initialized"
+        },
+        {
+          "modId": "ForgeMicroblock",
+          "state": "Post-initialized"
+        },
+        {
+          "modId": "ForgeMultipart",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:3aa3400c9a65aecba87e83fb7c58996471dce99b1e98f1ef80f41ba4309a71dd",
+      "mods": [
+        {
+          "modId": "minechem",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:9cfddb7321fe1e9f80b8a062e163cd3a52af50e28c78e95303469daaea27a69d",
+      "mods": [
+        {
+          "modId": "Mystcraft",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:3bcab7018fb38a173dc94000b5fcad4221cec7b2919c47753d6c42d9e7d9b1c4",
+      "mods": [
+        {
+          "modId": "OpenPeripheralCore",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:4802060cecf4354c11b8b459502bbb61230f82c99fa6265503b3c177d67fae93",
+      "mods": [
+        {
+          "modId": "MFR Compat Extra Trees",
+          "state": "Post-initialized"
+        },
+        {
+          "modId": "MineFactoryReloaded|CompatForgeMicroblock",
+          "state": "Post-initialized"
+        },
+        {
+          "modId": "MineFactoryReloaded|CompatChococraft",
+          "state": "Post-initialized"
+        },
+        {
+          "modId": "MineFactoryReloaded|CompatTwilightForest",
+          "state": "Post-initialized"
+        },
+        {
+          "modId": "MineFactoryReloaded|CompatAtum",
+          "state": "Post-initialized"
+        },
+        {
+          "modId": "MineFactoryReloaded|CompatBackTools",
+          "state": "Post-initialized"
+        },
+        {
+          "modId": "MineFactoryReloaded|CompatProjRed",
+          "state": "Post-initialized"
+        },
+        {
+          "modId": "MineFactoryReloaded|CompatForestryPre",
+          "state": "Post-initialized"
+        },
+        {
+          "modId": "MFR Compat Forestry Trees",
+          "state": "Post-initialized"
+        },
+        {
+          "modId": "MineFactoryReloaded|CompatThermalExpansion",
+          "state": "Post-initialized"
+        },
+        {
+          "modId": "MineFactoryReloaded|CompatRailcraft",
+          "state": "Post-initialized"
+        },
+        {
+          "modId": "MineFactoryReloaded|CompatMystcraft",
+          "state": "Post-initialized"
+        },
+        {
+          "modId": "MineFactoryReloaded|CompatIC2",
+          "state": "Post-initialized"
+        },
+        {
+          "modId": "MineFactoryReloaded|CompatBuildCraft",
+          "state": "Post-initialized"
+        },
+        {
+          "modId": "MineFactoryReloaded|CompatVanilla",
+          "state": "Post-initialized"
+        },
+        {
+          "modId": "MineFactoryReloaded|CompatForestry",
+          "state": "Post-initialized"
+        },
+        {
+          "modId": "MineFactoryReloaded|CompatThaumcraft",
+          "state": "Post-initialized"
+        },
+        {
+          "modId": "MineFactoryReloaded|CompatRP2",
+          "state": "Post-initialized"
+        },
+        {
+          "modId": "MineFactoryReloaded|CompatSufficientBiomes",
+          "state": "Post-initialized"
+        },
+        {
+          "modId": "MineFactoryReloaded|CompatXyCraft",
+          "state": "Post-initialized"
+        },
+        {
+          "modId": "MineFactoryReloaded|CompatAppliedEnergistics",
+          "state": "Post-initialized"
+        },
+        {
+          "modId": "MineFactoryReloaded|CompatPams",
+          "state": "Post-initialized"
+        },
+        {
+          "modId": "MineFactoryReloaded|CompatExtraBiomes",
+          "state": "Post-initialized"
+        },
+        {
+          "modId": "MineFactoryReloaded",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:0b93216b7c94f7e797875ed3382f59123e275403d8bc828d5a889090ab9920bb",
+      "mods": [
+        {
+          "modId": "NotEnoughItems",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:e59720ab2b2b839cf134f2749f5f39e1a4ba9e2ca4a558dd5adf7b704a2989bb",
+      "mods": [
+        {
+          "modId": "GregsLighting",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:f8469389f3676bd149c86d6896ec57fa7dde28065446278f5bded990d4bceeea",
+      "mods": [
+        {
+          "modId": "ResonantInduction|Archaic",
+          "state": "Errored"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:79b5a4f5829e1a49a415711f7fb8eb5b9ad22defa72929fda2da96ec30d3f018",
+      "mods": []
+    },
+    {
+      "signature": "sha256:4c122eb894401a31555478dae08a3a277432e48d5482b2825c7dbe4de37ebe5e",
+      "mods": [
+        {
+          "modId": "PluginsforForestry",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:d725e8600879defd415474dbf7276a88bfc10fa3373d613a5b4c7ed264d4b0a6",
+      "mods": []
+    },
+    {
+      "signature": "sha256:0f2b5f715a5506cc14ed352e5ff406b4c480a06344a479629b85e76c2aae7faa",
+      "mods": []
+    },
+    {
+      "signature": "sha256:8a347f041e502d348d320346c5c5687d35dcc5e88bb73c30b1f7bf755e456e03",
+      "mods": [
+        {
+          "modId": "CoroAI",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:c8e2554786115fd69ed5fb8eaa86d8c4e46a6eb1a1ec7c54e305569c98dec0f9",
+      "mods": [
+        {
+          "modId": "witchery",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:9c15ca396521f378365bd74e0fa51c67f312aef0cada07668f35ba26b39ca04c",
+      "mods": [
+        {
+          "modId": "ArchimedesShipsMod",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:75f15ca45f68fd64d555f28453aefa85413924fdbffbc2807dc8f15052c3a5b9",
+      "mods": [
+        {
+          "modId": "BiblioWoodsHighlands",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:27925e9a0d45acb336327040661a88ed887639b4c16214b6f595fbf93d29f8e8",
+      "mods": [
+        {
+          "modId": "eplus",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:b1aee12ee1558c238d40fbcf16d5e88a808ba0d50d7d920e1f2fe0b8c3a3f40f",
+      "mods": [
+        {
+          "modId": "inventorytweaks",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:6d824c861804151cca11db9a88702dc981409a91397a9f93ac9fb1f92a3fa7ab",
+      "mods": [
+        {
+          "modId": "MekanismTools",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:62af4c819973b7e49f690057c9be6082ad4174a7301568a4e32159a5f5cf86be",
+      "mods": [
+        {
+          "modId": "gregtech_addon",
+          "state": "Errored"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:6a5bbd86dbc57b2dfb4aa8761699e63e9a66f1c715a99c447df6554c296c1fb4",
+      "mods": [
+        {
+          "modId": "ResonantInduction|Core",
+          "state": "Errored"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:9616979adf7887d36316d9c08203487d15de6eb0e5144313d575dfe43c4a817c",
+      "mods": [
+        {
+          "modId": "AppliedEnergistics",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:f4b9f75b1d7db46da3e6ab773e11fcab723a5998680c685aea04e3efde39f8c4",
+      "mods": []
+    },
+    {
+      "signature": "sha256:4acf72b6081a5308fffe507b0b47efaa86a4ad1b57be2da9c8c052298a83fe22",
+      "mods": [
+        {
+          "modId": "powersuitaddons",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:43267d1265b42ed5873ac6942893465059f51f5695663b2be033dc99b31d7ccd",
+      "mods": [
+        {
+          "modId": "OpenBlocks",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:49ad4481d260cc179c787538bdd718aa0cf1d78392ea30014e69ef64a5d3b163",
+      "mods": [
+        {
+          "modId": "DeathCounter",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:4d515b09a1a14a65d41b8d4ad3ffece91f5f810af9535eb9edaab5840985fb17",
+      "mods": [
+        {
+          "modId": "modGuiPotionMaker",
+          "state": "Post-initialized"
+        },
+        {
+          "modId": "ModTools",
+          "state": "Post-initialized"
+        },
+        {
+          "modId": "ModCrops",
+          "state": "Post-initialized"
+        },
+        {
+          "modId": "ModRendering",
+          "state": "Post-initialized"
+        },
+        {
+          "modId": "modGuiSqueezer",
+          "state": "Post-initialized"
+        },
+        {
+          "modId": "modGuiSeedExtractor",
+          "state": "Post-initialized"
+        },
+        {
+          "modId": "modGuiTailorTable",
+          "state": "Post-initialized"
+        },
+        {
+          "modId": "MobMammoth.modid",
+          "state": "Post-initialized"
+        },
+        {
+          "modId": "modGuiDnaExtractor",
+          "state": "Post-initialized"
+        },
+        {
+          "modId": "MobScorpion.modid",
+          "state": "Post-initialized"
+        },
+        {
+          "modId": "modGuiElementExtractor",
+          "state": "Post-initialized"
+        },
+        {
+          "modId": "ModConfig",
+          "state": "Post-initialized"
+        },
+        {
+          "modId": "mod_*",
+          "state": "Post-initialized"
+        },
+        {
+          "modId": "MobMammothZombie.modid",
+          "state": "Post-initialized"
+        },
+        {
+          "modId": "modGuiDnaMaker",
+          "state": "Post-initialized"
+        },
+        {
+          "modId": "ModFuels",
+          "state": "Post-initialized"
+        },
+        {
+          "modId": "ModFood",
+          "state": "Post-initialized"
+        },
+        {
+          "modId": "ModBlocks",
+          "state": "Post-initialized"
+        },
+        {
+          "modId": "modGuiGrinder",
+          "state": "Post-initialized"
+        },
+        {
+          "modId": "modGuiDnaFabricator",
+          "state": "Post-initialized"
+        },
+        {
+          "modId": "ModDNA",
+          "state": "Post-initialized"
+        },
+        {
+          "modId": "CreativeTabs.modid",
+          "state": "Post-initialized"
+        },
+        {
+          "modId": "MobWhale.modid",
+          "state": "Post-initialized"
+        },
+        {
+          "modId": "ModFruits",
+          "state": "Post-initialized"
+        },
+        {
+          "modId": "modGuiFryer",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:b24e1105baa5e66b7d3a4ea73e92fda96c3db83f50ad998c2ffab4a2319350c6",
+      "mods": [
+        {
+          "modId": "magicalcrops",
+          "state": "Post-initialized"
+        },
+        {
+          "modId": "standardcrops",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:131f0519a8e4602e47cf024bfd7e0834bcf5592a7207f9a2fdb711d4f5afc166",
+      "mods": []
+    },
+    {
+      "signature": "sha256:c2b17f0761706fba6822df4c1c8516e1ef3739f604e85e847d6e7db14099cb07",
+      "mods": [
+        {
+          "modId": "NEIAddons|ExtraBees",
+          "state": "Post-initialized"
+        },
+        {
+          "modId": "NEIAddons|MiscPeripherals",
+          "state": "Post-initialized"
+        },
+        {
+          "modId": "NEIAddons|Forestry",
+          "state": "Post-initialized"
+        },
+        {
+          "modId": "NEIAddons|AE",
+          "state": "Post-initialized"
+        },
+        {
+          "modId": "NEIAddons|CraftingTables",
+          "state": "Post-initialized"
+        },
+        {
+          "modId": "NEIAddons|ExNihilo",
+          "state": "Post-initialized"
+        },
+        {
+          "modId": "NEIAddons",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:2e292e04e709e4495e402c770812a0f5b51669e13219d6f192d640219ab19daa",
+      "mods": [
+        {
+          "modId": "Botania",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:3e5e0d3ca377f0e1f3b62cdbf63d13b84bace4117fd26e9146de343c73a9e39c",
+      "mods": [
+        {
+          "modId": "ganyssurface",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:5eed6be1aaf65eee080e05a96b946969beddafa96f4049b23a4b8cd256df3637",
+      "mods": [
+        {
+          "modId": "extracells",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:a654345dc8e5879815822dc5a8486ddaf5b1c7e4754b805547aef3580e27a950",
+      "mods": [
+        {
+          "modId": "ProjRed|Core",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:863819298a568fd80762af5fda916cdb118de7f7e031d12b252ce84f2a42e6a2",
+      "mods": [
+        {
+          "modId": "PowerBoxes",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:cd5cd864e110f2a5c6ecf3c4fcd56064ea6e107eac2f21aad134d3ce4ee2878d",
+      "mods": [
+        {
+          "modId": "ExtendedRenderer",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:c84d2508bed0de02069fa61f86b71a9425848730bacd943e781a21debe8d7f75",
+      "mods": [
+        {
+          "modId": "ForbiddenMagic",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:f2c6c24f76d6d158947720626fc06dda1012bd056239a4a072800549307926cc",
+      "mods": [
+        {
+          "modId": "AdvancedMachines",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:a5b00887462933d342070d51da52cb283460213078267232480ca21f8193098a",
+      "mods": [
+        {
+          "modId": "ExtrabiomesXL",
+          "state": "Post-initialized"
+        }
+      ]
+    },
+    {
+      "signature": "sha256:5ace94810584d2d0c4dc42adfaa4d65f0f7f79eef8faf40f4c69f0200348268a",
+      "mods": [
+        {
+          "modId": "dimdoors",
+          "state": "Post-initialized"
+        }
+      ]
+    }
+  ],
+  "timestamp": 1406023560083,
+  "location": "crash_handler",
+  "exception": {
+    "stack": [
+      {
+        "class": "gregtechmod.GT_Mod",
+        "method": "postload",
+        "file": "GT_Mod.java",
+        "line": 658,
+        "signatures": [
+          "sha256:62af4c819973b7e49f690057c9be6082ad4174a7301568a4e32159a5f5cf86be"
+        ]
+      },
+      {
+        "class": "sun.reflect.NativeMethodAccessorImpl",
+        "method": "invoke0",
+        "line": -2,
+        "signatures": []
+      },
+      {
+        "class": "sun.reflect.NativeMethodAccessorImpl",
+        "method": "invoke",
+        "line": -1,
+        "signatures": []
+      },
+      {
+        "class": "sun.reflect.DelegatingMethodAccessorImpl",
+        "method": "invoke",
+        "line": -1,
+        "signatures": []
+      },
+      {
+        "class": "java.lang.reflect.Method",
+        "method": "invoke",
+        "line": -1,
+        "signatures": []
+      },
+      {
+        "class": "cpw.mods.fml.common.FMLModContainer",
+        "method": "handleModStateEvent",
+        "file": "FMLModContainer.java",
+        "line": 545
+      },
+      {
+        "class": "sun.reflect.GeneratedMethodAccessor2",
+        "method": "invoke",
+        "line": -1,
+        "signatures": []
+      },
+      {
+        "class": "sun.reflect.DelegatingMethodAccessorImpl",
+        "method": "invoke",
+        "line": -1,
+        "signatures": []
+      },
+      {
+        "class": "java.lang.reflect.Method",
+        "method": "invoke",
+        "line": -1,
+        "signatures": []
+      },
+      {
+        "class": "com.google.common.eventbus.EventHandler",
+        "method": "handleEvent",
+        "file": "EventHandler.java",
+        "line": 74,
+        "source": "sha256:c0127b076e3056f58294e4ae6c01a96599b8f58200345eb6f859192a2d9b2962",
+        "signatures": [
+          "sha256:c0127b076e3056f58294e4ae6c01a96599b8f58200345eb6f859192a2d9b2962"
+        ]
+      },
+      {
+        "class": "com.google.common.eventbus.SynchronizedEventHandler",
+        "method": "handleEvent",
+        "file": "SynchronizedEventHandler.java",
+        "line": 45,
+        "source": "sha256:c0127b076e3056f58294e4ae6c01a96599b8f58200345eb6f859192a2d9b2962",
+        "signatures": [
+          "sha256:c0127b076e3056f58294e4ae6c01a96599b8f58200345eb6f859192a2d9b2962"
+        ]
+      },
+      {
+        "class": "com.google.common.eventbus.EventBus",
+        "method": "dispatch",
+        "file": "EventBus.java",
+        "line": 313,
+        "source": "sha256:c0127b076e3056f58294e4ae6c01a96599b8f58200345eb6f859192a2d9b2962",
+        "signatures": [
+          "sha256:c0127b076e3056f58294e4ae6c01a96599b8f58200345eb6f859192a2d9b2962"
+        ]
+      },
+      {
+        "class": "com.google.common.eventbus.EventBus",
+        "method": "dispatchQueuedEvents",
+        "file": "EventBus.java",
+        "line": 296,
+        "source": "sha256:c0127b076e3056f58294e4ae6c01a96599b8f58200345eb6f859192a2d9b2962",
+        "signatures": [
+          "sha256:c0127b076e3056f58294e4ae6c01a96599b8f58200345eb6f859192a2d9b2962"
+        ]
+      },
+      {
+        "class": "com.google.common.eventbus.EventBus",
+        "method": "post",
+        "file": "EventBus.java",
+        "line": 267,
+        "source": "sha256:c0127b076e3056f58294e4ae6c01a96599b8f58200345eb6f859192a2d9b2962",
+        "signatures": [
+          "sha256:c0127b076e3056f58294e4ae6c01a96599b8f58200345eb6f859192a2d9b2962"
+        ]
+      },
+      {
+        "class": "cpw.mods.fml.common.LoadController",
+        "method": "sendEventToModContainer",
+        "file": "LoadController.java",
+        "line": 201
+      },
+      {
+        "class": "cpw.mods.fml.common.LoadController",
+        "method": "propogateStateMessage",
+        "file": "LoadController.java",
+        "line": 181
+      },
+      {
+        "class": "sun.reflect.NativeMethodAccessorImpl",
+        "method": "invoke0",
+        "line": -2,
+        "signatures": []
+      },
+      {
+        "class": "sun.reflect.NativeMethodAccessorImpl",
+        "method": "invoke",
+        "line": -1,
+        "signatures": []
+      },
+      {
+        "class": "sun.reflect.DelegatingMethodAccessorImpl",
+        "method": "invoke",
+        "line": -1,
+        "signatures": []
+      },
+      {
+        "class": "java.lang.reflect.Method",
+        "method": "invoke",
+        "line": -1,
+        "signatures": []
+      },
+      {
+        "class": "com.google.common.eventbus.EventHandler",
+        "method": "handleEvent",
+        "file": "EventHandler.java",
+        "line": 74,
+        "source": "sha256:c0127b076e3056f58294e4ae6c01a96599b8f58200345eb6f859192a2d9b2962",
+        "signatures": [
+          "sha256:c0127b076e3056f58294e4ae6c01a96599b8f58200345eb6f859192a2d9b2962"
+        ]
+      },
+      {
+        "class": "com.google.common.eventbus.SynchronizedEventHandler",
+        "method": "handleEvent",
+        "file": "SynchronizedEventHandler.java",
+        "line": 45,
+        "source": "sha256:c0127b076e3056f58294e4ae6c01a96599b8f58200345eb6f859192a2d9b2962",
+        "signatures": [
+          "sha256:c0127b076e3056f58294e4ae6c01a96599b8f58200345eb6f859192a2d9b2962"
+        ]
+      },
+      {
+        "class": "com.google.common.eventbus.EventBus",
+        "method": "dispatch",
+        "file": "EventBus.java",
+        "line": 313,
+        "source": "sha256:c0127b076e3056f58294e4ae6c01a96599b8f58200345eb6f859192a2d9b2962",
+        "signatures": [
+          "sha256:c0127b076e3056f58294e4ae6c01a96599b8f58200345eb6f859192a2d9b2962"
+        ]
+      },
+      {
+        "class": "com.google.common.eventbus.EventBus",
+        "method": "dispatchQueuedEvents",
+        "file": "EventBus.java",
+        "line": 296,
+        "source": "sha256:c0127b076e3056f58294e4ae6c01a96599b8f58200345eb6f859192a2d9b2962",
+        "signatures": [
+          "sha256:c0127b076e3056f58294e4ae6c01a96599b8f58200345eb6f859192a2d9b2962"
+        ]
+      },
+      {
+        "class": "com.google.common.eventbus.EventBus",
+        "method": "post",
+        "file": "EventBus.java",
+        "line": 267,
+        "source": "sha256:c0127b076e3056f58294e4ae6c01a96599b8f58200345eb6f859192a2d9b2962",
+        "signatures": [
+          "sha256:c0127b076e3056f58294e4ae6c01a96599b8f58200345eb6f859192a2d9b2962"
+        ]
+      },
+      {
+        "class": "cpw.mods.fml.common.LoadController",
+        "method": "distributeStateMessage",
+        "file": "LoadController.java",
+        "line": 112
+      },
+      {
+        "class": "cpw.mods.fml.common.Loader",
+        "method": "initializeMods",
+        "file": "Loader.java",
+        "line": 704
+      },
+      {
+        "class": "cpw.mods.fml.client.FMLClientHandler",
+        "method": "finishMinecraftLoading",
+        "file": "FMLClientHandler.java",
+        "line": 249
+      },
+      {
+        "class": "net.minecraft.client.Minecraft",
+        "method": "func_71384_a",
+        "file": "Minecraft.java",
+        "line": 509
+      },
+      {
+        "class": "net.minecraft.client.Minecraft",
+        "method": "func_99999_d",
+        "file": "Minecraft.java",
+        "line": 808
+      },
+      {
+        "class": "net.minecraft.client.main.Main",
+        "method": "main",
+        "file": "SourceFile",
+        "line": 101
+      },
+      {
+        "class": "sun.reflect.NativeMethodAccessorImpl",
+        "method": "invoke0",
+        "line": -2,
+        "signatures": []
+      },
+      {
+        "class": "sun.reflect.NativeMethodAccessorImpl",
+        "method": "invoke",
+        "line": -1,
+        "signatures": []
+      },
+      {
+        "class": "sun.reflect.DelegatingMethodAccessorImpl",
+        "method": "invoke",
+        "line": -1,
+        "signatures": []
+      },
+      {
+        "class": "java.lang.reflect.Method",
+        "method": "invoke",
+        "line": -1,
+        "signatures": []
+      },
+      {
+        "class": "net.minecraft.launchwrapper.Launch",
+        "method": "launch",
+        "file": "Launch.java",
+        "line": 131
+      },
+      {
+        "class": "net.minecraft.launchwrapper.Launch",
+        "method": "main",
+        "file": "Launch.java",
+        "line": 27
+      },
+      {
+        "class": "sun.reflect.NativeMethodAccessorImpl",
+        "method": "invoke0",
+        "line": -2,
+        "signatures": []
+      },
+      {
+        "class": "sun.reflect.NativeMethodAccessorImpl",
+        "method": "invoke",
+        "line": -1,
+        "signatures": []
+      },
+      {
+        "class": "sun.reflect.DelegatingMethodAccessorImpl",
+        "method": "invoke",
+        "line": -1,
+        "signatures": []
+      },
+      {
+        "class": "java.lang.reflect.Method",
+        "method": "invoke",
+        "line": -1,
+        "signatures": []
+      },
+      {
+        "class": "org.multimc.onesix.OneSixLauncher",
+        "method": "launchWithMainClass",
+        "file": "OneSixLauncher.java",
+        "line": 273,
+        "signatures": []
+      },
+      {
+        "class": "org.multimc.onesix.OneSixLauncher",
+        "method": "launch",
+        "file": "OneSixLauncher.java",
+        "line": 363,
+        "signatures": []
+      },
+      {
+        "class": "org.multimc.EntryPoint",
+        "method": "listen",
+        "file": "EntryPoint.java",
+        "line": 165,
+        "signatures": []
+      },
+      {
+        "class": "org.multimc.EntryPoint",
+        "method": "main",
+        "file": "EntryPoint.java",
+        "line": 54,
+        "signatures": []
+      }
+    ],
+    "exception": "gregtechmod.api.util.GT_ItsNotMyFaultException",
+    "message": ""
+  },
+  "random": -492181895,
+  "resolved": true,
+  "branding": [
+    "Minecraft 1.6.4",
+    "MCP v8.11",
+    "FML v6.4.49.965",
+    "Minecraft Forge 9.11.1.965",
+    "Optifine OptiFine_1.6.4_HD_U_D1",
+    "250 mods loaded, 250 mods active"
+  ],
+  "runtime": {
+    "mcp": "MCP v8.11",
+    "fml": "6.4.49.965",
+    "forge": "9.11.1.965"
+  },
+  "minecraft": "Minecraft 1.6.4",
+  "javaVersion": "Oracle Corporation 1.7.0_60",
+  "side": "client",
+  "obfuscated": true
+}
