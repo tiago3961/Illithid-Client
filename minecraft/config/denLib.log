@@ -11394,6 +11394,7 @@ Ore: bookMystcraftLink
 Ore: bookNotes
 Ore: paperMystcraft
 Ore: bookTinkersManual
+Ore: ingotSteelLeaf
 Ore: paperBlueprint
 Ore: paperResearch
 Ore: bookThaumonomicon
@@ -11452,6 +11453,74 @@ Ore: rubbleArdite
 Ore: dirtyDustArdite
 Ore: dustArdite
 Fluid: molten_iridium
+Fluid: mixture_iridium
+Ore: rubbleIridium
+Ore: dirtyDustIridium
+Ore: dustIridium
+Fluid: molten_copper
+Fluid: mixture_copper
+Ore: rubbleCopper
+Ore: dirtyDustCopper
+Ore: dustCopper
+Fluid: molten_cadmium
+Fluid: mixture_cadmium
+Ore: rubbleCadmium
+Ore: dirtyDustCadmium
+Ore: dustCadmium
+Fluid: molten_dark_iron
+Fluid: mixture_dark_iron
+Ore: rubbleDarkIron
+Ore: dirtyDustDarkIron
+Ore: dustDarkIron
+Fluid: molten_fz_dark_iron
+Fluid: mixture_fz_dark_iron
+Ore: rubbleDarkIron
+Ore: rubbleFzDarkIron
+Ore: dirtyDustFzDarkIron
+Ore: dustDarkIron
+Ore: dustFzDarkIron
+Fluid: molten_cobalt
+Fluid: mixture_cobalt
+Ore: rubbleCobalt
+Ore: dirtyDustCobalt
+Ore: dustCobalt
+Fluid: molten_iron
+Fluid: mixture_iron
+Ore: rubbleIron
+Ore: dirtyDustIron
+Ore: dustIron
+Fluid: molten_aluminium
+Fluid: mixture_aluminium
+Ore: rubbleAluminium
+Ore: dirtyDustAluminium
+Ore: dustAluminium
+Fluid: molten_silver
+Fluid: mixture_silver
+Ore: rubbleSilver
+Ore: dirtyDustSilver
+Ore: dustSilver
+Fluid: molten_tin
+Fluid: mixture_tin
+Ore: rubbleTin
+Ore: dirtyDustTin
+Ore: dustTin
+Fluid: molten_aluminum
+Fluid: mixture_aluminum
+Ore: rubbleAluminium
+Ore: rubbleAluminum
+Ore: dirtyDustAluminum
+Ore: dustAluminium
+Ore: dustAluminum
+Fluid: molten_gold
+Fluid: mixture_gold
+Ore: rubbleGold
+Ore: dirtyDustGold
+Ore: dustGold
+Fluid: molten_osmium
+Fluid: mixture_osmium
+Ore: rubbleOsmium
+Ore: dirtyDustOsmium
+Ore: dustOsmium
 Ore: glassWhite
 Ore: glassPaneWhite
 Ore: dyeCeramicWhite
@@ -12194,6 +12263,10 @@ Ore: dustTin
 Ore: 
 greggy_greg_do_please_kindly_stuff_a_sock_in_it
 dustTin
+Ore: dustTin
+Ore: 
+greggy_greg_do_please_kindly_stuff_a_sock_in_it
+dustTin
 Ore: dustPureSalt
 Ore: 
 greggy_greg_do_please_kindly_stuff_a_sock_in_it
@@ -12614,6 +12687,10 @@ Ore: crushedPurifiedIridium
 Ore: 
 greggy_greg_do_please_kindly_stuff_a_sock_in_it
 crushedPurifiedIridium
+Ore: dustCobalt
+Ore: 
+greggy_greg_do_please_kindly_stuff_a_sock_in_it
+dustCobalt
 Ore: dustCobalt
 Ore: 
 greggy_greg_do_please_kindly_stuff_a_sock_in_it
@@ -13146,6 +13223,10 @@ Ore: roundPlutonium
 Ore: 
 greggy_greg_do_please_kindly_stuff_a_sock_in_it
 roundPlutonium
+Ore: dustSilver
+Ore: 
+greggy_greg_do_please_kindly_stuff_a_sock_in_it
+dustSilver
 Ore: dustSilver
 Ore: 
 greggy_greg_do_please_kindly_stuff_a_sock_in_it
@@ -13998,10 +14079,18 @@ Ore: elementScandium
 Ore: 
 greggy_greg_do_please_kindly_stuff_a_sock_in_it
 elementScandium
+Ore: dirtyDustSilver
+Ore: 
+greggy_greg_do_please_kindly_stuff_a_sock_in_it
+dirtyDustSilver
 Ore: oc:craftingCU
 Ore: 
 greggy_greg_do_please_kindly_stuff_a_sock_in_it
 oc:craftingCU
+Ore: dustIron
+Ore: 
+greggy_greg_do_please_kindly_stuff_a_sock_in_it
+dustIron
 Ore: dustIron
 Ore: 
 greggy_greg_do_please_kindly_stuff_a_sock_in_it
@@ -14362,6 +14451,10 @@ Ore: crushedBandedIron
 Ore: 
 greggy_greg_do_please_kindly_stuff_a_sock_in_it
 crushedBandedIron
+Ore: dustGold
+Ore: 
+greggy_greg_do_please_kindly_stuff_a_sock_in_it
+dustGold
 Ore: dustGold
 Ore: 
 greggy_greg_do_please_kindly_stuff_a_sock_in_it
@@ -32189,6 +32282,10 @@ Ore: pumice
 Ore: 
 greggy_greg_do_please_kindly_stuff_a_sock_in_it
 pumice
+Ore: rubbleSilver
+Ore: 
+greggy_greg_do_please_kindly_stuff_a_sock_in_it
+rubbleSilver
 Ore: dustThulium
 Ore: 
 greggy_greg_do_please_kindly_stuff_a_sock_in_it
@@ -32597,6 +32694,10 @@ Ore: dustCadmium
 Ore: 
 greggy_greg_do_please_kindly_stuff_a_sock_in_it
 dustCadmium
+Ore: dustCadmium
+Ore: 
+greggy_greg_do_please_kindly_stuff_a_sock_in_it
+dustCadmium
 Ore: dustImpureRockSalt
 Ore: 
 greggy_greg_do_please_kindly_stuff_a_sock_in_it
@@ -32617,6 +32718,10 @@ Ore: crushedFoolsRuby
 Ore: 
 greggy_greg_do_please_kindly_stuff_a_sock_in_it
 crushedFoolsRuby
+Ore: dustIridium
+Ore: 
+greggy_greg_do_please_kindly_stuff_a_sock_in_it
+dustIridium
 Ore: dustIridium
 Ore: 
 greggy_greg_do_please_kindly_stuff_a_sock_in_it
@@ -32873,6 +32978,10 @@ Ore: ingotNickel
 Ore: 
 greggy_greg_do_please_kindly_stuff_a_sock_in_it
 ingotNickel
+Ore: rubbleFzDarkIron
+Ore: 
+greggy_greg_do_please_kindly_stuff_a_sock_in_it
+rubbleFzDarkIron
 Ore: dustGadolinium
 Ore: 
 greggy_greg_do_please_kindly_stuff_a_sock_in_it
@@ -33125,6 +33234,10 @@ Ore: crushedUranium
 Ore: 
 greggy_greg_do_please_kindly_stuff_a_sock_in_it
 crushedUranium
+Ore: rubbleCadmium
+Ore: 
+greggy_greg_do_please_kindly_stuff_a_sock_in_it
+rubbleCadmium
 Ore: crushedBorax
 Ore: 
 greggy_greg_do_please_kindly_stuff_a_sock_in_it
@@ -34649,6 +34762,10 @@ Ore: dustshardAir
 Ore: 
 greggy_greg_do_please_kindly_stuff_a_sock_in_it
 dustshardAir
+Ore: dirtyDustIron
+Ore: 
+greggy_greg_do_please_kindly_stuff_a_sock_in_it
+dirtyDustIron
 Ore: screwDysprosium
 Ore: 
 greggy_greg_do_please_kindly_stuff_a_sock_in_it
@@ -35701,6 +35818,10 @@ Ore: craftingMuffler
 Ore: 
 greggy_greg_do_please_kindly_stuff_a_sock_in_it
 craftingMuffler
+Ore: rubbleCobalt
+Ore: 
+greggy_greg_do_please_kindly_stuff_a_sock_in_it
+rubbleCobalt
 Ore: dustPureMagnesium
 Ore: 
 greggy_greg_do_please_kindly_stuff_a_sock_in_it
@@ -36725,6 +36846,10 @@ Ore: treeLeaves
 Ore: 
 greggy_greg_do_please_kindly_stuff_a_sock_in_it
 treeLeaves
+Ore: rubbleOsmium
+Ore: 
+greggy_greg_do_please_kindly_stuff_a_sock_in_it
+rubbleOsmium
 Ore: boltDarkIron
 Ore: 
 greggy_greg_do_please_kindly_stuff_a_sock_in_it
@@ -37081,6 +37206,14 @@ Ore: dustAluminium
 Ore: 
 greggy_greg_do_please_kindly_stuff_a_sock_in_it
 dustAluminium
+Ore: dustAluminium
+Ore: 
+greggy_greg_do_please_kindly_stuff_a_sock_in_it
+dustAluminium
+Ore: dustAluminium
+Ore: 
+greggy_greg_do_please_kindly_stuff_a_sock_in_it
+dustAluminium
 Ore: dyeCeramicRed
 Ore: 
 greggy_greg_do_please_kindly_stuff_a_sock_in_it
@@ -37113,6 +37246,10 @@ Ore: dustTritanium
 Ore: 
 greggy_greg_do_please_kindly_stuff_a_sock_in_it
 dustTritanium
+Ore: rubbleTin
+Ore: 
+greggy_greg_do_please_kindly_stuff_a_sock_in_it
+rubbleTin
 Ore: dustTrona
 Ore: 
 greggy_greg_do_please_kindly_stuff_a_sock_in_it
@@ -37645,6 +37782,10 @@ Ore: foodHoneylemonlamb
 Ore: 
 greggy_greg_do_please_kindly_stuff_a_sock_in_it
 foodHoneylemonlamb
+Ore: dirtyDustTin
+Ore: 
+greggy_greg_do_please_kindly_stuff_a_sock_in_it
+dirtyDustTin
 Ore: dustSmallPumice
 Ore: 
 greggy_greg_do_please_kindly_stuff_a_sock_in_it
@@ -37801,6 +37942,14 @@ Ore: dustPollucite
 Ore: 
 greggy_greg_do_please_kindly_stuff_a_sock_in_it
 dustPollucite
+Ore: rubbleDarkIron
+Ore: 
+greggy_greg_do_please_kindly_stuff_a_sock_in_it
+rubbleDarkIron
+Ore: rubbleDarkIron
+Ore: 
+greggy_greg_do_please_kindly_stuff_a_sock_in_it
+rubbleDarkIron
 Ore: roundPigIron
 Ore: 
 greggy_greg_do_please_kindly_stuff_a_sock_in_it
@@ -37937,6 +38086,10 @@ Ore: stickRefinedGlowstone
 Ore: 
 greggy_greg_do_please_kindly_stuff_a_sock_in_it
 stickRefinedGlowstone
+Ore: rubbleCopper
+Ore: 
+greggy_greg_do_please_kindly_stuff_a_sock_in_it
+rubbleCopper
 Ore: gemMonazite
 Ore: 
 greggy_greg_do_please_kindly_stuff_a_sock_in_it
@@ -41765,6 +41918,10 @@ Ore: dustOsmium
 Ore: 
 greggy_greg_do_please_kindly_stuff_a_sock_in_it
 dustOsmium
+Ore: dustOsmium
+Ore: 
+greggy_greg_do_please_kindly_stuff_a_sock_in_it
+dustOsmium
 Ore: plateCobaltBrass
 Ore: 
 greggy_greg_do_please_kindly_stuff_a_sock_in_it
@@ -43045,6 +43202,10 @@ Ore: dustFzDarkIron
 Ore: 
 greggy_greg_do_please_kindly_stuff_a_sock_in_it
 dustFzDarkIron
+Ore: dustFzDarkIron
+Ore: 
+greggy_greg_do_please_kindly_stuff_a_sock_in_it
+dustFzDarkIron
 Ore: ringZinc
 Ore: 
 greggy_greg_do_please_kindly_stuff_a_sock_in_it
@@ -44097,6 +44258,10 @@ Ore: foodBakedbeans
 Ore: 
 greggy_greg_do_please_kindly_stuff_a_sock_in_it
 foodBakedbeans
+Ore: dirtyDustIridium
+Ore: 
+greggy_greg_do_please_kindly_stuff_a_sock_in_it
+dirtyDustIridium
 Ore: dustSmallPollucite
 Ore: 
 greggy_greg_do_please_kindly_stuff_a_sock_in_it
@@ -44105,6 +44270,10 @@ Ore: crushedPurifiedEmerald
 Ore: 
 greggy_greg_do_please_kindly_stuff_a_sock_in_it
 crushedPurifiedEmerald
+Ore: dirtyDustFzDarkIron
+Ore: 
+greggy_greg_do_please_kindly_stuff_a_sock_in_it
+dirtyDustFzDarkIron
 Ore: lenseBlueTopaz
 Ore: 
 greggy_greg_do_please_kindly_stuff_a_sock_in_it
@@ -44129,6 +44298,10 @@ Ore: brickPeat
 Ore: 
 greggy_greg_do_please_kindly_stuff_a_sock_in_it
 brickPeat
+Ore: rubbleGold
+Ore: 
+greggy_greg_do_please_kindly_stuff_a_sock_in_it
+rubbleGold
 Ore: nuggetSunnarium
 Ore: 
 greggy_greg_do_please_kindly_stuff_a_sock_in_it
@@ -44289,6 +44462,10 @@ Ore: crushedSilver
 Ore: 
 greggy_greg_do_please_kindly_stuff_a_sock_in_it
 crushedSilver
+Ore: rubbleAluminum
+Ore: 
+greggy_greg_do_please_kindly_stuff_a_sock_in_it
+rubbleAluminum
 Ore: dustTinyTrona
 Ore: 
 greggy_greg_do_please_kindly_stuff_a_sock_in_it
@@ -44365,6 +44542,10 @@ Ore: gemSapphire
 Ore: 
 greggy_greg_do_please_kindly_stuff_a_sock_in_it
 gemSapphire
+Ore: dirtyDustOsmium
+Ore: 
+greggy_greg_do_please_kindly_stuff_a_sock_in_it
+dirtyDustOsmium
 Ore: elementRadium
 Ore: 
 greggy_greg_do_please_kindly_stuff_a_sock_in_it
@@ -44849,6 +45030,10 @@ Ore: gearGtCobaltBrass
 Ore: 
 greggy_greg_do_please_kindly_stuff_a_sock_in_it
 gearGtCobaltBrass
+Ore: dirtyDustCadmium
+Ore: 
+greggy_greg_do_please_kindly_stuff_a_sock_in_it
+dirtyDustCadmium
 Ore: dustSmallJade
 Ore: 
 greggy_greg_do_please_kindly_stuff_a_sock_in_it
@@ -46541,6 +46726,10 @@ Ore: screwGold
 Ore: 
 greggy_greg_do_please_kindly_stuff_a_sock_in_it
 screwGold
+Ore: dirtyDustDarkIron
+Ore: 
+greggy_greg_do_please_kindly_stuff_a_sock_in_it
+dirtyDustDarkIron
 Ore: elementTellurium
 Ore: 
 greggy_greg_do_please_kindly_stuff_a_sock_in_it
@@ -46929,6 +47118,14 @@ Ore: itemCharcoalSugar
 Ore: 
 greggy_greg_do_please_kindly_stuff_a_sock_in_it
 itemCharcoalSugar
+Ore: dirtyDustCobalt
+Ore: 
+greggy_greg_do_please_kindly_stuff_a_sock_in_it
+dirtyDustCobalt
+Ore: dirtyDustAluminium
+Ore: 
+greggy_greg_do_please_kindly_stuff_a_sock_in_it
+dirtyDustAluminium
 Ore: dyeRedCrystal
 Ore: 
 greggy_greg_do_please_kindly_stuff_a_sock_in_it
@@ -48497,6 +48694,10 @@ Ore: dustAluminum
 Ore: 
 greggy_greg_do_please_kindly_stuff_a_sock_in_it
 dustAluminum
+Ore: dustAluminum
+Ore: 
+greggy_greg_do_please_kindly_stuff_a_sock_in_it
+dustAluminum
 Ore: oreDarkIron
 Ore: 
 greggy_greg_do_please_kindly_stuff_a_sock_in_it
@@ -48901,6 +49102,10 @@ Ore: toolHeadHoeGold
 Ore: 
 greggy_greg_do_please_kindly_stuff_a_sock_in_it
 toolHeadHoeGold
+Ore: dirtyDustAluminum
+Ore: 
+greggy_greg_do_please_kindly_stuff_a_sock_in_it
+dirtyDustAluminum
 Ore: foodSunflowerbroccolisalad
 Ore: 
 greggy_greg_do_please_kindly_stuff_a_sock_in_it
@@ -48977,6 +49182,10 @@ Ore: pipeMediumTungstenSteel
 Ore: 
 greggy_greg_do_please_kindly_stuff_a_sock_in_it
 pipeMediumTungstenSteel
+Ore: rubbleIridium
+Ore: 
+greggy_greg_do_please_kindly_stuff_a_sock_in_it
+rubbleIridium
 Ore: screwRefinedGlowstone
 Ore: 
 greggy_greg_do_please_kindly_stuff_a_sock_in_it
@@ -49915,6 +50124,10 @@ Ore: stickPlutonium241
 Ore: 
 greggy_greg_do_please_kindly_stuff_a_sock_in_it
 stickPlutonium241
+Ore: dustCopper
+Ore: 
+greggy_greg_do_please_kindly_stuff_a_sock_in_it
+dustCopper
 Ore: dustCopper
 Ore: 
 greggy_greg_do_please_kindly_stuff_a_sock_in_it
@@ -51027,6 +51240,14 @@ Ore: dustDarkIron
 Ore: 
 greggy_greg_do_please_kindly_stuff_a_sock_in_it
 dustDarkIron
+Ore: dustDarkIron
+Ore: 
+greggy_greg_do_please_kindly_stuff_a_sock_in_it
+dustDarkIron
+Ore: dustDarkIron
+Ore: 
+greggy_greg_do_please_kindly_stuff_a_sock_in_it
+dustDarkIron
 Ore: nuggetTantalum
 Ore: 
 greggy_greg_do_please_kindly_stuff_a_sock_in_it
@@ -51275,6 +51496,10 @@ Ore: dustTopaz
 Ore: 
 greggy_greg_do_please_kindly_stuff_a_sock_in_it
 dustTopaz
+Ore: ingotSteelLeaf
+Ore: 
+greggy_greg_do_please_kindly_stuff_a_sock_in_it
+ingotSteelLeaf
 Ore: ingotSteelLeaf
 Ore: 
 greggy_greg_do_please_kindly_stuff_a_sock_in_it
@@ -52559,6 +52784,10 @@ Ore: crushedLithium
 Ore: 
 greggy_greg_do_please_kindly_stuff_a_sock_in_it
 crushedLithium
+Ore: rubbleIron
+Ore: 
+greggy_greg_do_please_kindly_stuff_a_sock_in_it
+rubbleIron
 Ore: dustSmallLiveRoot
 Ore: 
 greggy_greg_do_please_kindly_stuff_a_sock_in_it
@@ -53895,6 +54124,14 @@ Ore: crushedPurifiedCoal
 Ore: 
 greggy_greg_do_please_kindly_stuff_a_sock_in_it
 crushedPurifiedCoal
+Ore: rubbleAluminium
+Ore: 
+greggy_greg_do_please_kindly_stuff_a_sock_in_it
+rubbleAluminium
+Ore: rubbleAluminium
+Ore: 
+greggy_greg_do_please_kindly_stuff_a_sock_in_it
+rubbleAluminium
 Ore: oreBlueTopaz
 Ore: 
 greggy_greg_do_please_kindly_stuff_a_sock_in_it
@@ -54151,6 +54388,10 @@ Ore: foodBaconmushroomburger
 Ore: 
 greggy_greg_do_please_kindly_stuff_a_sock_in_it
 foodBaconmushroomburger
+Ore: dirtyDustGold
+Ore: 
+greggy_greg_do_please_kindly_stuff_a_sock_in_it
+dirtyDustGold
 Ore: dustSmallPlatinum
 Ore: 
 greggy_greg_do_please_kindly_stuff_a_sock_in_it
@@ -54811,6 +55052,10 @@ Ore: stairWood
 Ore: 
 greggy_greg_do_please_kindly_stuff_a_sock_in_it
 stairWood
+Ore: dirtyDustCopper
+Ore: 
+greggy_greg_do_please_kindly_stuff_a_sock_in_it
+dirtyDustCopper
 Ore: oc:craftingGPUTier2
 Ore: 
 greggy_greg_do_please_kindly_stuff_a_sock_in_it
@@ -56556,3 +56801,4 @@ Ore: oreSunstone
 Ore: gemSunstone
 Ore: oreEssence
 Ore: oreNetherEssence
+Ore: cellEmpty
